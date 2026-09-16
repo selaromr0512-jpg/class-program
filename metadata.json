@@ -1,0 +1,6 @@
+{
+  "name": "DepEd Class Program & Conflict Scheduler",
+  "description": "DepEd MATATAG Junior High and Senior High School class program scheduler with real-time teacher, room, and section conflict detection, trimester curriculum support, and SF7 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
